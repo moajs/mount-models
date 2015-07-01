@@ -14,6 +14,6 @@
 ## Usages
 
 ```
-var $models = require('mount-models');
+var $models = require('mount-models')(__dirname);
 console.log($models);
 ```
