@@ -1,6 +1,6 @@
 {
   "name": "mount-models",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "moajs mount-models",
   "main": "index.js",
   "scripts": {
